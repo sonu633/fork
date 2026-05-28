@@ -11,5 +11,17 @@ All users now automatically start with a free one-month Pro trial. After that, y
 PyCharm Professional users are unaffected and will continue to enjoy full access to all Pro features in the unified product.
 
 
+dependencies and virtual environments in python
+
+1.Numpy
+2.pandas
+3.matplotlib
+4.seaborn
+5.Scikit- learn
+6.tenserflow 
+---------------------------------------
+venv  virtual environments 
+
+
 
 
