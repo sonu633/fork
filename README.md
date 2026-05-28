@@ -22,6 +22,14 @@ dependencies and virtual environments in python
 ---------------------------------------
 venv  virtual environments 
 
+instalation of dependencies 
+
+pip install pandas
+pip install numpy
+pip install matplotlib 
+pip install seaborn
+pip install Scikit - learn
+
 
 
 
